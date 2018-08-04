@@ -1,0 +1,26 @@
+{
+  "name": "meteor-graphql-apollo-react-full-stack-boilerplate-project",
+  "author": {
+    "name": "Skhairi Mohamed Aimane",
+    "email": "skhairimedaimane@gmail.com",
+    "site": "medaimane.github.io"
+  },
+  "description": "MeteorJS, ReactJS.",
+  "repository": {
+    "type": "git",
+    "url": "https://"
+  },
+  "version" : "1.0",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.0.0-beta.36",
+    "meteor-node-stubs": "^0.3.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "license": "GPL-3.0",
+  "readmeFilename": "README.md"
+}
