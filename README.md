@@ -1,20 +1,13 @@
-# full-stack-boilerplate-project
+# Full Stack Boilerplate Project
 
-Technologies : 
+  > Technologies : Meteor JS, React JS, Apollo, GraphQL, MongoDB.
+  > Tools: VS Code, Git, Debian.
 
+## Creators
 
-# Tools
+    Mohamed Aimane SKHAIRI
+    skhairimedaimane@gmail.com
 
-Meteor JS, React JS, Apollo, GraphQL,MongoDB, VS Code, Git, Debian
-
-# Author
-
-Mohamed Aimane SKHAIRI
-
-# Contact 
-
-skhairimedaimane@gmail.com
-
-# License
+## License
 
 GNU GPL v3.0.
