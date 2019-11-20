@@ -1,7 +1,6 @@
 # Full Stack Boilerplate Project
 
-  > Technologies : Meteor JS, React JS, Apollo, GraphQL, MongoDB.
-  > Tools: VS Code, Git, Debian.
+!!Sorry, this repo code is outdated!! Tech/Stack: Meteor JS, React JS, Apollo, GraphQL, MongoDB
 
 ## Creators
 
